@@ -1,2 +1,407 @@
-a,b
-x,y
+title
+  cat generator
+
+output
+	[prefix][suffix] is [desc] [gender] [role]. [pronoun] has [furlength], [furtrait] [fur] fur. [pronoun] has [eyes] eyes. [pronoun] is [postrait] and [postrait2], yet [negativetrait1] and [negativetrait2] [pronoun] [interesting]. [prefix][suffix] likes [like] and [like2], but hates [hate] and [hate2]. <br><br> hi
+ 
+desc
+  an unusually tall
+  an unusually short
+  an average heighted
+like
+  leafbare
+  newleaf
+  leaffall
+  greenleaf
+  kits
+  apprentices
+  hunting
+  climbing
+  wind
+like2
+  elders
+  leading
+  sunlight
+  moonlight
+  hot days
+  the cold
+hate
+  kits
+  sunsets
+  meeting new people
+  gatherings
+  cloudy days
+  rainy days
+  sunny days
+  snowy days
+  leafbare
+  newleaf
+  leaffall
+  greenleaf
+hate2
+  night
+  day
+  mornings
+  hunting
+  climbing
+  losing things
+  apprentices
+  elders
+  the smell of herbs
+  rogues
+pronoun
+  She
+  He
+pronoun2
+  her
+  his
+interesting
+  was named after [pronoun2] mentor
+  was named after [pronoun2] father
+  was named after [pronoun2] mother
+  used to be a rogue
+  used to be a kittypet
+  is from another clan
+gender
+  she-cat
+  tom-cat
+postrait
+  kind-hearted
+  a good leader
+  considerate
+  empathetic
+  reliable
+  intelligent
+  innovative
+  thoughtful
+  resilient
+postrait2
+  humorous
+  calm in stressful situations
+  brave
+  optimistic
+  a fast runner
+  strong
+  clean
+  honest
+  loyal
+  trustworthy
+  wise
+  open-minded
+  mature
+  ethical
+  courageous
+negativetrait1
+  abrasive
+  antisocial
+  apathetic
+  callous
+  catty
+  childish
+  cocky
+  compulsive
+  confrontational
+  controlling
+  cowardly
+  cruel
+  defensive
+  cynical
+  defensive
+  devious
+  dishonest
+negativetrait2
+  flaky.
+  forgetful.
+  frivolous.
+  fussy.
+  likes to gossip.
+  humorless.
+  hypocritical.
+  ignorant.
+  indecisive.
+  forgetful.
+role
+  leader
+  deputy
+  medicine cat
+  warrior
+  medicine cat apprentice
+  warrior apprentice
+  kit
+  queen
+  elder
+furtrait
+  glossy
+  messy
+  neat
+  bland
+  thick
+  coarse
+  matted
+  clean
+  greasy
+  downy
+  patchy
+  healthy
+  grizzled
+furlength
+  long
+  short
+  medium
+  
+fur
+  brown tabby
+  all brown
+  ginger tabby
+  light ginger tabby
+  light ginger rosetted tabby
+  ginger rosetted tabby
+  diluted tortoiseshell
+  tortoiseshell
+  calico
+  tuxedo
+  light blue
+  blue
+  dark blue
+  diluted calico
+  chocolate calico
+  
+eyes
+  light pink
+  pink
+  dark pink
+  light red
+  red
+  dark red
+  light orange
+  orange
+  dark orange
+  light yellow
+  yellow
+  dark yellow
+  light green
+  sage green
+  dark green
+  hazel
+  bright green
+  light blue
+  blue
+  dark blue
+  light purple
+  purple
+  dark purple
+  light grey
+  grey
+  dark grey
+  black
+  white
+  blind ^15
+  light pink and light yellow
+  pink and hazel
+  dark pink and black
+  light red and yellow
+  red and blue
+  dark red and white
+  light orange and green
+  orange and blue
+  dark orange and blind
+  light yellow and hazel
+  yellow and light green
+  dark yellow and purple
+  light green and dark green
+  sage green and light green
+  dark green and white
+  hazel and grey
+  bright green and dark blue
+  light blue and light green
+  blue and blind
+  dark blue and blind
+  light purple and blind
+  purple and blind
+  dark purple dark orange
+  light grey and green
+  grey and black
+  dark grey and white
+  black and yellow
+  white and orange
+ 
+  
+prefix
+  Brown
+  Ginger
+  Bird
+  Snail
+  Willow
+  Acorn
+  Adder
+  Amber
+  Ant
+  Apple
+  Arch
+  Ash
+  Aspen
+  Russet
+  Blue
+  Grey
+  Black
+  Snake
+  Adder
+  Sparrow
+  Badger
+  Bark
+  Beech
+  Beetle
+  Berry
+  Birch
+  Bird
+  Black
+  Blizzard
+  Blossom
+  Blue
+  Bounce
+  Bracken
+  Bramble
+  Brave
+  Breeze
+  Briar
+  Bright
+  Brindle
+  Broken
+  Brown
+  Bumble
+  Buzzard
+  Cedar
+  Cherry
+  Cinder
+  Claw
+  Cloud
+  Clover
+  Copper
+  Creek
+  Crooked
+  Crouch
+  Crow
+  Daisy
+  Dapple
+  Dark
+  Dawn
+  Dead
+  Dew
+  Dove
+  Drift
+  Duck
+  Dusk
+  Dust
+  Dwead
+  Driftwood
+  Drifting
+  Drift
+  Red
+  Orange
+  Yellow
+  Green
+  Blue
+  Purple
+  Lavender
+  Daisy
+  Rose
+  Ivy
+  Eagle
+  Ebony
+  Crow
+  Eel
+  Ember
+  Fallen
+  Fallow
+  Fawn
+  Feather
+  Fennel
+  Fern
+  Ferret
+  Finch
+  Fire
+  Flame
+  Fleet
+  Flint
+  Flower
+  Fly
+  Fox
+  Freckle
+  Frog
+  Frost
+  Furze
+  Fuzzy
+  Zephyr
+  Breeze
+  Wind
+  Thunder
+  Shadow
+  River
+  Creek
+  Blooming
+  Rabbit
+  Hare
+  Vole
+  Mouse
+  Squirrel
+  Fly
+  Rat
+  Deer
+  Lion
+  Tiger
+  Fern
+  Cloud
+
+suffix
+  star
+  paw
+  kit
+  fur
+  flight
+  night
+  roar
+  sun
+  bee
+  belly
+  pelt
+  foot
+  toe
+  tail
+  crawl
+  creep
+  gaze
+  eye
+  dawn
+  dusk
+  fuzz
+  stare
+  watch
+  watcher
+  roll
+  scramble
+  skitter
+  smile
+  heart
+  cloud
+  mouse
+  breeze
+  wind
+  creek
+  fern
+  
+	
+	
+
+
+// Tips:
+//  - Learn more with the tutorial! --> perchance.org/tutorial
+//  - You can change the URL of your generator by clicking the "settings" button in the top-right
+//  - Use this template if you want your generator to be vertically centered on the page:  perchance.org/centered-minimal#edit
+//  - Add background images, fonts, and other stuff with plugins: perchance.org/plugins
+//  - Here are some templates that you can use to create nice-looking generators without learning HTML and CSS:  perchance.org/templates
+//  - Use the "layout maker" plugin to create complex layouts without learning how to code:  perchance.org/layout-maker-plugin
+//  - Here are some generators you might like to import:  perchance.org/useful-generators
+//  - Highlight multiple lines and press Tab or Shift+Tab to indent and un-indent them all an once
+//  - Read this page after reading the tutorial:  perchance.org/examples
+//  - Ask our friendly community members if you need help:  reddit.com/r/perchance
+// \( ﾟヮﾟ)/
